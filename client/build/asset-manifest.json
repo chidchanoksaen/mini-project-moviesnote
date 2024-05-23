@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-project-moviesnote/static/css/main.1c5f658e.css",
+    "main.js": "/mini-project-moviesnote/static/js/main.87bbc21e.js",
+    "static/js/453.258b012d.chunk.js": "/mini-project-moviesnote/static/js/453.258b012d.chunk.js",
+    "index.html": "/mini-project-moviesnote/index.html",
+    "main.1c5f658e.css.map": "/mini-project-moviesnote/static/css/main.1c5f658e.css.map",
+    "main.87bbc21e.js.map": "/mini-project-moviesnote/static/js/main.87bbc21e.js.map",
+    "453.258b012d.chunk.js.map": "/mini-project-moviesnote/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5f658e.css",
+    "static/js/main.87bbc21e.js"
+  ]
+}
